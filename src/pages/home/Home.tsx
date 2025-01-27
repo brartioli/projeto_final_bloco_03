@@ -2,11 +2,11 @@
 function Home() {
         return (
             <>
-                <div className="bg-red-900 flex justify-center">
-                    <div className='container grid grid-cols-2 text-white'>
+                <div className="bg-lime-50 flex justify-center">
+                    <div className='container grid grid-cols-2 text-red-950'>
                         <div className="flex flex-col gap-4 items-center justify-center py-4">
                             <h2 className='text-5xl font-bold'>
-                                Seja Bem-vinde a sua farmácia!
+                                Seja Bem-vinde a farmácia!
                             </h2>
                             <p className='text-xl'>
                                 Medicamento bom e barato é aqui!
